@@ -1,0 +1,5 @@
+README.md
+CONTRIBUTING.md
+./backend/node_modules
+./my-portfolio/node_modules
+node_modules/
